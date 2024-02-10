@@ -1,0 +1,16 @@
+/* Header.module.css */
+ul {
+    display: flex;
+    background-color: black;
+    list-style: none;
+    padding: 10px;
+    padding-left: 70%;
+}
+ul li {
+    padding: 0px 10px;
+}
+ul li a {
+    text-decoration: none;
+    color: white;
+    
+}

@@ -1,0 +1,91 @@
+/* App.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  table {
+    width: 90%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    margin-left: 65px;
+}
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #673AB7;
+    color: white;
+  }
+  
+  form {
+    border: 1px solid #ddd;
+    width: 50%;
+    padding: 20px;
+    text-align: left;
+    margin: auto;
+    border-radius: 5px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  input {
+    width: calc(100% - 16px);
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 12px;
+    box-sizing: border-box; /* Include padding and border in element's total width and height */
+  }
+  .label-search {
+    margin-left: 65px;
+  }
+  .input-search {
+    width: 20%;
+    margin-left: 65px;
+  }
+  .btn-Delete, .btn-Edit, .btn-Add, .btn-Update, .btn-search {
+    padding: 8px 16px;
+    cursor: pointer;
+    border: 0;
+    border-radius: 4px;
+    margin-left: 2px;
+  }
+  .btn-search {
+    background-color: rgb(191, 203, 76);
+    color: white;
+    
+  }
+  
+  .btn-Delete {
+    background-color: red;
+    color: white;
+  }
+
+  
+  .btn-Edit {
+    background-color: green;
+    color: white;
+  }
+  
+  .btn-Add {
+    background-color: blue;
+    color: white;
+  }
+  
+  .btn-Update {
+    background-color: rgb(9, 42, 31);
+    color: white;
+  }
+  
+  /* Add more styles as needed */
+  

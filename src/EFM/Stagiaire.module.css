@@ -1,0 +1,21 @@
+/* stagiaire.css */
+.container {
+    width: 200px;
+    margin-left: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+
+
+  }
+  /* img {
+    text-align: center;
+  } */
+  
+  
+  
+  .nom {
+    font-weight: bold;
+   
+  }
+  

@@ -1,0 +1,11 @@
+.tp1 {
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    padding: 24px;
+    margin: 10px;
+}
+.tp2 {
+    list-style: none;
+    
+}
